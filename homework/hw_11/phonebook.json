@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "phone_number": "+1 123-456-7890",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Smith",
+    "phone_number": "+1 987-654-3210",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "first_name": "Mark",
+    "last_name": "Johnson",
+    "phone_number": "+44 1234 567890",
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  {
+    "first_name": "Sophie",
+    "last_name": "Dubois",
+    "phone_number": "+33 6 12 34 56 78",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "first_name": "Luis",
+    "last_name": "Garcia",
+    "phone_number": "+34 612 345 678",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "first_name": "Hans",
+    "last_name": "Schmidt",
+    "phone_number": "+49 12345 67890",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "first_name": "Kenji",
+    "last_name": "Sato",
+    "phone_number": "+81 3 1234 5678",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "first_name": "Sergei",
+    "last_name": "Ivanov",
+    "phone_number": "+7 987 654 3210",
+    "country": "Ukraine",
+    "city": "Kyiv"
+  },
+  {
+    "first_name": "Ahmed",
+    "last_name": "Khan",
+    "phone_number": "+92 300 1234567",
+    "country": "Pakistan",
+    "city": "Karachi"
+  },
+  {
+    "first_name": "Kira",
+    "last_name": "Nikitiuk",
+    "telephone_number": "+380777777777",
+    "country": "Ukraine",
+    "city": "Kyiv"
+  }
+]
